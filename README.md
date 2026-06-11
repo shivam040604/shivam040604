@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Yadav
 
-<!--
-**shivam040604/shivam040604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning C#, SQL, JavaScript, HTML, CSS, and .NET  
+🚀 Passionate about Web Development  
+🎯 Goal: Become a Professional Full Stack Developer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- C#
+
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+
+### Database
+- MySQL
+- SQL Server
+  
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Visual Studio
+
+## 📚 Currently Learning
+- Advanced Java
+- SQL & Database Design
+- ASP.NET Core
+- REST APIs
+- Full Stack Development
+
+## 🚀 Projects
+- Portfolio Website
+- turnest -travlling website
+- E-Commerce Website (In Progress)
+- SQL Practice Projects
+
+### ✨ Quote
+
+"Code. Learn. Build. Repeat."
